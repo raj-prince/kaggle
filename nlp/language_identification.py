@@ -1,3 +1,6 @@
+# Data downloaded from the below link.
+# link: https://www.dropbox.com/s/gnr5o63y9me6aa1/language_identification?dl=0
+
 import io
 
 # Used to make counter dictionary from the list of words.
